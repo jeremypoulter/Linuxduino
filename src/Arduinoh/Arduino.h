@@ -32,6 +32,8 @@
 #include "../Core.h"
 #include "../Serial.h"
 
+#define LED_BUILTIN 4
+
 extern void setup(void);
 extern void loop(void);
 
